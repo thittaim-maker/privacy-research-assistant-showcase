@@ -12,11 +12,15 @@ It indexes a curated corpus of statutes, regulations, and landmark court judgmen
 
 ---
 
-## Live Demo
+## UI Screenshots
 
-https://github.com/thittaim-maker/privacy-research-assistant-showcase/raw/main/screenshots/PRA%20Live%20Demo.webm
+| Main Interface | Query Processing | Query Answer + Sources |
+|---------------|-----------------|----------------------|
+| ![Main](screenshots/01_main_interface.png) | ![Processing](screenshots/02_query_processing.png) | ![Answer](screenshots/03_query_answer.png) |
 
-> The demo walks through the full feature set: login, natural-language legal Q&A with source citations, document upload, PII scanning, and the admin panel.
+| Sources Panel | Login Form | Admin Logged In |
+|--------------|-----------|----------------|
+| ![Sources](screenshots/04_sources_panel.png) | ![Login](screenshots/05_login_form.png) | ![Admin](screenshots/06_admin_logged_in.png) |
 
 ---
 
