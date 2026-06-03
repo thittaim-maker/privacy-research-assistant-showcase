@@ -12,17 +12,11 @@ It indexes a curated corpus of statutes, regulations, and landmark court judgmen
 
 ---
 
-## Screenshots
+## Live Demo
 
-| Login | Main Chat Interface | Source Citations |
-|-------|---------------------|-----------------|
-| ![Login](screenshots/login.png) | ![Chat](screenshots/chat.png) | ![Sources](screenshots/sources.png) |
+https://github.com/thittaim-maker/privacy-research-assistant-showcase/raw/main/screenshots/PRA%20Live%20Demo.webm
 
-| Document Upload | Admin Panel | PII Scanner |
-|----------------|-------------|-------------|
-| ![Upload](screenshots/upload.png) | ![Admin](screenshots/admin.png) | ![PII](screenshots/pii.png) |
-
-> Screenshots are added progressively as features are demonstrated. See [`screenshots/`](screenshots/) for the full set.
+> The demo walks through the full feature set: login, natural-language legal Q&A with source citations, document upload, PII scanning, and the admin panel.
 
 ---
 
@@ -55,29 +49,10 @@ It indexes a curated corpus of statutes, regulations, and landmark court judgmen
 
 ---
 
-## Repository Structure (this repo)
-
-```
-pra-showcase/
-├── README.md                    ← you are here
-├── docs/
-│   ├── architecture.md          ← system design and data flow
-│   ├── features.md              ← detailed feature walkthrough
-│   ├── legal-corpus.md          ← what laws and cases are indexed
-│   ├── rag-pipeline.md          ← how retrieval and generation works
-│   └── security.md              ← offline design, auth, encryption
-└── screenshots/                 ← UI screenshots
-```
-
----
-
 ## Knowledge Base Articles
 
-- [System Architecture](docs/architecture.md)
 - [Feature Walkthrough](docs/features.md)
 - [Legal Corpus Coverage](docs/legal-corpus.md)
-- [RAG Pipeline Design](docs/rag-pipeline.md)
-- [Security & Privacy Design](docs/security.md)
 
 ---
 
